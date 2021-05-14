@@ -1,0 +1,23 @@
+/*this is common for all devices*/
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid aqua;
+  border-radius: 2px;
+}
+button {
+  text-align: center;
+  background-color: lightgreen;
+  color: darkblue;
+  width: 20%;
+  margin-left: 40%;
+  margin-right: 40%;
+  border: 1px solid darkblue;
+  margin-bottom: 10px;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
